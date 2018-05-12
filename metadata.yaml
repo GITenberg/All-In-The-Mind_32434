@@ -1,0 +1,32 @@
+_repo: All-In-The-Mind_32434
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 32434-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henderson, Gene L.
+    gutenberg_agent_id: '35847'
+    url: http://www.gutenberg.org/2009/agents/35847
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: All In The Mind
+url: http://www.gutenberg.org/ebooks/32434
