@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '35847'
     url: http://www.gutenberg.org/2009/agents/35847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32434#All-In-The-Mind
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
